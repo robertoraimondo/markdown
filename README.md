@@ -2,6 +2,9 @@
 
 A modern desktop Markdown editor with WYSIWYG preview, advanced formatting, and Azure Boards integration.
 
+<img width="1909" height="1028" alt="markdown" src="https://github.com/user-attachments/assets/67808159-f91a-4000-bed4-5835cf51083e" />
+
+
 ## Features
 - Edit Markdown with live preview
 - Context menu for formatting: bold, italic, underline, strikethrough, highlight, headings, lists, code, tables, images, and more
@@ -43,3 +46,4 @@ This project is open source and available under the MIT License.
 **Author: Roberto Raimondo - IS Senior Systems Engineer II**
 
 © 2025 All Rights Reserved.
+
