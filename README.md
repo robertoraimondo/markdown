@@ -33,7 +33,7 @@ A modern desktop Markdown editor with WYSIWYG preview, advanced formatting, and 
 ## Usage
 - Run the editor:
   ```sh
-  python md_editor/main.py
+  python main.py
   ```
 - Use the File menu for file operations and publishing to Azure Boards.
 - Right-click in the editor for formatting options.
@@ -46,4 +46,5 @@ This project is open source and available under the MIT License.
 **Author: Roberto Raimondo - IS Senior Systems Engineer II**
 
 © 2025 All Rights Reserved.
+
 
